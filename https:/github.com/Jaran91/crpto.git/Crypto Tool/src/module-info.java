@@ -6,6 +6,7 @@
  *
  */
 module Crypt {
+	requires java.desktop;
 	
 	
 	
